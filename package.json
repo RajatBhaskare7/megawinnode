@@ -1,0 +1,19 @@
+{
+  "name": "megawinnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.15.0"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node14-win64": "^9.50.90",
+    "express": "^4.18.1"
+  }
+}
